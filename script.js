@@ -11,5 +11,5 @@ function mapLetters(str){
 	}
 	return obj;
 }
-let input= toLowerCase(prompt());
+let input= string.toLowerCase(prompt());
 alert(mapLetters(input));
