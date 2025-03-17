@@ -11,5 +11,4 @@ function mapLetters(str){
 	}
 	return obj;
 }
-let input= string.toLowerCase(prompt());
-alert(mapLetters(input));
+console.log(mapLetters("dodo"));
